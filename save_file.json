@@ -1,0 +1,136 @@
+{
+    "player": {
+        "reputation": 0,
+        "contacts": [],
+        "inventory": [],
+        "visited_locations": []
+    },
+    "students": {
+        "Amy": {
+            "name": "Amy",
+            "trust": 0,
+            "suspicion": 0,
+            "contact_unlocked": false,
+            "secret_told": false,
+            "secret_exposed": false,
+            "lied_to": null,
+            "times_questioned": 0,
+            "times_observed": 0,
+            "acting_sus": null,
+            "messages": []
+        },
+        "Ethan": {
+            "name": "Ethan",
+            "trust": 0,
+            "suspicion": 0,
+            "contact_unlocked": false,
+            "secret_told": false,
+            "secret_exposed": false,
+            "lied_to": null,
+            "times_questioned": 0,
+            "times_observed": 0,
+            "acting_sus": null,
+            "messages": []
+        },
+        "Mia": {
+            "name": "Mia",
+            "trust": 0,
+            "suspicion": 0,
+            "contact_unlocked": false,
+            "secret_told": false,
+            "secret_exposed": false,
+            "lied_to": null,
+            "times_questioned": 0,
+            "times_observed": 0,
+            "acting_sus": null,
+            "messages": []
+        },
+        "Zoe": {
+            "name": "Zoe",
+            "trust": 0,
+            "suspicion": 0,
+            "contact_unlocked": false,
+            "secret_told": false,
+            "secret_exposed": false,
+            "lied_to": null,
+            "times_questioned": 0,
+            "times_observed": 0,
+            "acting_sus": null,
+            "messages": []
+        }
+    },
+    "quests": {
+        "Getting to know Amy": {
+            "title": "Getting to know Amy",
+            "status": "available",
+            "reward": 2,
+            "penalty": 0
+        },
+        "Ethan's crush shenanigans": {
+            "title": "Ethan's crush shenanigans",
+            "status": "available",
+            "reward": 10,
+            "penalty": 0
+        }
+    },
+    "game": {
+        "current_day": 1,
+        "current_time": 600,
+        "times_saved": 1
+    },
+    "observations": {
+        "Sunrise": [
+            {
+                "title": "\nAmy reading",
+                "seen": false
+            }
+        ],
+        "Morning": [
+            {
+                "title": "\nAmy writing",
+                "seen": false
+            },
+            {
+                "title": "\nDistracted Mia",
+                "seen": false
+            }
+        ],
+        "Noon": [
+            {
+                "title": "\nZoe arguing with students.",
+                "seen": false
+            },
+            {
+                "title": "\nEthan nervously eating Doritos",
+                "seen": false
+            },
+            {
+                "title": "\nMia is anxious.",
+                "seen": false
+            }
+        ],
+        "Afternoon": [
+            {
+                "title": "\nZoe fixing",
+                "seen": false
+            },
+            {
+                "title": "\nAmy receiving a note",
+                "seen": false
+            }
+        ],
+        "Night": []
+    },
+    "perks": {
+        "trust_bonus": 0,
+        "reputation_bonus": 0,
+        "mystery_book_read": false
+    },
+    "pets": {
+        "pet_name": null,
+        "pet_species": null,
+        "old_pet_name": "Microwave",
+        "old_pet_species": "Cat"
+    },
+    "investigation_log": []
+}
